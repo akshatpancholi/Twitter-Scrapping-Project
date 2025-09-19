@@ -37,7 +37,3 @@ The scraped data from the MongoDB database are dispalyed as a DataFrame
 **Menu 5 -- Download**  
 The scraped data from the MongoDB database is downloaded as CSV/ JSON file formats as per the requirement. 
 
-## Demo
-
-Demo for the Twitter Scraping app can be find using the following link.
-Youtube link: https://youtu.be/QPHLwYQqF3U
